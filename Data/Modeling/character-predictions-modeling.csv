@@ -1,4 +1,4 @@
-name,title,male,culture,dateOfBirth,dateOfDeath,mother,father,heir,house,spouse,book1,book2,book3,book4,book5,isAliveMother,isAliveFather,isAliveHeir,isAliveSpouse,isMarried,isNoble,age,numDeadRelations,boolDeadRelations,isPopular,popularity,isAlive
+name,title,male,culture,dateOfBirth,DateoFdeath,mother,father,heir,house,spouse,book1,book2,book3,book4,book5,isAliveMother,isAliveFather,isAliveHeir,isAliveSpouse,isMarried,isNoble,age,numDeadRelations,boolDeadRelations,isPopular,popularity,isAlive
 Meha,,0,Free Folk,,,,,,,,0,0,0,0,1,,,,,0,0,,0,0,0,0.0066889632107023,1
 Domeric Bolton,,1,Northmen,279.0,297.0,,,,House Bolton,,0,1,0,1,1,,,,,0,0,18.0,0,0,0,0.0903010033444816,0
 Maron Greyjoy,,1,Ironborn,275.0,289.0,,,,House Greyjoy,,1,1,1,1,1,,,,,0,0,14.0,4,1,0,0.140468227424749,0
@@ -527,7 +527,7 @@ Jason Lannister,Ser,1,,,130.0,,,,House Lannister,Johanna Lannister,0,0,0,0,0,,,,
 Porther,,1,northmen,,,,,,House Stark,,1,1,0,0,0,,,,,0,0,,0,0,0,0.0100334448160535,1
 Luthor Tyrell,Lord Paramount of the Mander,1,Reach,,,,,,House Tyrell,Olenna Redwyne,0,0,1,0,0,,,,1.0,1,1,,1,1,0,0.170568561872909,1
 Robb Reyne,Ser,1,,,,,,,House Reyne,,0,0,0,0,0,,,,,0,1,,0,0,0,0.0066889632107023,1
-Drogo,Khal,0,Dothraki,267.0,299.0,,,,,Daenerys Targaryen,1,1,1,0,1,,,,1.0,1,0,32.0,5,1,1,0.558528428093645,0
+Drogo,Khal,0,Dothraki,267.0,298299.0,,,,,Daenerys Targaryen,1,1,1,0,1,,,,1.0,1,0,32.0,5,1,1,0.558528428093645,0
 Maddy,,0,,,,,,,House Arryn,,0,0,0,1,1,,,,,0,0,,0,0,0,0.0133779264214046,1
 Humfrey Hewett,Oakenshield,1,,,,,,,House Hewett,,0,0,0,1,1,,,,,0,1,,0,0,0,0.0301003344481605,1
 Robin,,1,,,,,,,,,0,0,0,1,0,,,,,0,0,,0,0,0,0.0167224080267558,1
@@ -1181,7 +1181,7 @@ Malleon,Grand Maester,1,,,,,,,,,1,0,0,0,0,,,,,0,1,,0,0,0,0.0167224080267558,1
 Puckens,,0,,,,,,,House Lannister,,0,0,0,1,0,,,,,0,0,,0,0,0,0.0133779264214046,1
 Polliver,Castellan of Harrenhal,1,,,300.0,,,,House Clegane,,0,1,1,1,0,,,,,0,1,,0,0,0,0.0769230769230769,0
 Grunt,,1,Northmen,,,,,,House Bolton,,0,0,0,0,1,,,,,0,0,,0,0,0,0.0267558528428093,1
-Cohollo,Bloodrider,1,Dothraki,,299.0,,,,Khal,,1,0,0,0,0,,,,,0,0,,0,0,0,0.0334448160535117,0
+Cohollo,Bloodrider,1,Dothraki,,298299.0,,,,Khal,,1,0,0,0,0,,,,,0,0,,0,0,0,0.0334448160535117,0
 Alyn Connington,Ser,0,,,,,,,House Connington,,0,0,1,1,0,,,,,0,1,,0,0,0,0.060200668896321,1
 Nymeria,PrincessQueen,0,Rhoynar,,,,,,House Martell,Mors Martell,1,1,0,1,1,,,,1.0,1,1,,0,0,0,0.197324414715719,1
 Frenken,Maester,0,,,,,,,,,0,1,1,1,1,,,,,0,1,,0,0,0,0.0434782608695652,1
